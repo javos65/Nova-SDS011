@@ -1,7 +1,7 @@
-# Nova SDS011 PArticle Sensor for Arduino / any Mcu
+# Nova SDS011 Particle Sensor for Arduino / any Mcu
  Simple and lean SDS011 Uart interfacing<BR>
  No Library-overhead, just one straight forward code example to serial.<BR>
- # Project Example
+ # Project Example for PM10 / PM2.5
  See project Directory for an example. Used to build a real sensor, and have it been part of the Sensor Community Network<BT>
  # Pinning
 You'll need to connect the RX and TX pins of the sensor to the corresponding TX and RX pins (yes, swop them) on your microcontroller.<BR>
