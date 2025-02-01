@@ -9,7 +9,7 @@
 * | Date        :   2025-01-16
 * | Info        :   Basic version
 *
-* 
+*  https://github.com/javos65/Nova-SDS011
 *
 ******************************************************************************/
 int incomingByte = 0; // for incoming serial data
