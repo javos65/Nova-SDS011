@@ -1,6 +1,8 @@
 # Nova SDS011 PArticle Sensor for Arduino / any Mcu
  Simple and lean SDS011 Uart interfacing<BR>
  No Library-overhead, just one straight forward code example to serial.<BR><BR>
+ # Project Example
+ See project Directory for an example. Used to build a real sensor, and have it been part of the Sensor Community Network<BT><BR>
  # Pinning
 You'll need to connect the RX and TX pins of the sensor to the corresponding TX and RX pins (yes, swop them) on your microcontroller.<BR>
 Connect 5V(!) and Gnd to power lines, see example of SDS011 sensor datasheet<BR>
