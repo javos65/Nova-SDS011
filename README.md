@@ -5,6 +5,8 @@
  # Project Example for PM10 / PM2.5
  See project Directory for an example. Used to build a real sensor, and have it been part of the Sensor Community Network<BR>
 + [HacksterIO project](https://www.hackster.io/voske65/particle-sensor-nova-sds011-nano33iot-073b3b)<BR><BR>
++ ![Board](/project/PM10/images/Sensor_setup%20jpg.jpg?raw=true)<BR>
+
 
  # Pinning
 You'll need to connect the RX and TX pins of the sensor to the corresponding TX and RX pins (yes, swop them) on your microcontroller.<BR>
